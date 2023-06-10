@@ -1,5 +1,5 @@
 # Mondrian-Painting-Project
-This is a random painting from Mondrian. Not so difficult but pretty tricky :Dthe
+This is a random painting from Mondrian. Not so difficult but pretty tricky :D
 
 Hint:
 The height of box which has border should include the width of border
